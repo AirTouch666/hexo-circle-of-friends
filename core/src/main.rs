@@ -93,7 +93,7 @@ async fn generate_article_summaries(
     match fc_settings.database.as_str() {
         "sqlite" => {
             let dbpool = sqlite::connect_sqlite_dbpool("data.db").await?;
-            let posts = sqlite::select_all_from_posts(&dbpool, 0, 0, "updated").await?;
+            let posts = sqlite::select_all_from_posts(&dbpool, 0, 0, "created").await?;
 
             for post in posts {
                 let link = &post.meta.link;
