@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。
 LINK: [
-     { link: "https://www.yyyzyyyz.cn/link/", theme: "butterfly" },  # 友链页地址1，修改为你的友链页地址
+     { link: "https://www.xsl.im/friends", theme: "stellar" },  # 友链页地址1，修改为你的友链页地址
 #     { link: "https://noionion.top/link/", theme: "butterfly" }, # 友链页地址2
     # { link: "https://immmmm.com/about/", theme: "common1" }, # 友链页地址3
 #     ...
@@ -30,9 +30,31 @@ LINK: [
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
-    enable: false,
+    enable: true,
     json_api_or_path: "",
     list: [
+          ["清羽飞扬", "https://blog.liushen.fun/", "https://blog.liushen.fun/info/avatar.ico"],
+          ["Frederick's Blog", "https://blog.ohdragonboi.cn/", "https://blog.ohdragonboi.cn/_astro/favicon.kz6zgvIB_Z1snDk4.webp"],
+          ["Thun888", "https://blog.hzchu.top/", "https://blog.hzchu.top/img/avatar.webp"],
+          ["杜老师说", "https://dusays.com/", "https://cdn.dusays.com/favicon.ico"],
+          ["AcoFork Blog", "https://2x.nz/", "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"],
+          ["小白の博客", "https://www.showby.top/", "https://r2cfimg.showby.top/2024/09/19/66eb06a884fb9.jpg"],
+          ["薩魔5mg", "https://cn.5mg.fun/", "https://cdn.jsdelivr.net/gh/Sumorio/BlogPic@latest/common/5mg.png"],
+          ["EiloのBlog", "https://www.eilo.uk/", "https://www.eilo.uk/img/logo.png"],
+          ["bbb-lsy07", "https://blog.6uu.us/", "https://images.6uu.us/20250511114301488.JPG"],
+          ["fishcpy的小破站", "https://blog.fis.ink/", "https://avatars.githubusercontent.com/u/140036207?v=4"],
+          ["Mete0r’s Blog | 壹人小站", "https://www.xscnet.cn/", "https://www.xscnet.cn/avatar1.jpg"],
+          ["青序栈", "https://qxzhan.cn/", "https://qxzhan.cn/favicon.png"],
+          ["彬红茶日记", "https://note.redcha.cn/", "https://note.redcha.cn/upload/favicon-256x256.png"],
+          ["夜轻Blog", "https://blog.yeqing.net/", "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"],
+          ["安知鱼", "https://blog.anheyu.com/", "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"],
+          ["Tavre Blog", "https://blog.tsd.my/", "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"],
+          ["𝟞𝟙𝟡’𝕤 𝔹𝕃𝕆𝔾", "https://66619.eu.org/", "https://img.cdn1.vip/i/68a0229208ff1_1755325074.webp"],
+          ["纸鹿摸鱼处", "https://www.zhilu.site/", "https://www.zhilu.site/api/avatar.png"],
+          ["短巷与雨", "https://www.hudi.space/", "https://www.hudi.space/img/avator.jpg"],
+          ["安小歪", "https://blog.anxy.top/", "https://imgse.koxiuqiu.cc/imgse/u/19/2025/02/20/67b737d854192.webp"],
+          ["逸风亭", "https://blog.fyz666.xyz/", "https://s2.loli.net/2025/04/12/KqFxMtPRpu5bjTy.webp"],
+          ["6Youngの屋", "https://www.6young.site/", "https://jiashu.jsdmirror.com/gh/6YoungHome/cdn2@main/clear_favicon.png"],
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
