@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 18,
     "error_num": 4,
-    "article_num": 62,
-    "last_updated_time": "2025-09-24 05:17:28"
+    "article_num": 61,
+    "last_updated_time": "2025-09-24 09:25:19"
   },
   "article_data": [
     {
@@ -540,15 +540,6 @@
     },
     {
       "floor": 60,
-      "title": "Forgejo及其Action自部署简明教程",
-      "created": "2025-07-25",
-      "updated": "2025-07-25",
-      "link": "https://blog.liushen.fun/posts/de5fc13c/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "floor": 61,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-09-17",
@@ -557,7 +548,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 62,
+      "floor": 61,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
