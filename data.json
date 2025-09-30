@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 20,
-    "error_num": 2,
+    "active_num": 19,
+    "error_num": 3,
     "article_num": 71,
-    "last_updated_time": "2025-10-01 02:26:19"
+    "last_updated_time": "2025-10-01 05:17:34"
   },
   "article_data": [
     {
@@ -54,33 +54,6 @@
     },
     {
       "floor": 6,
-      "title": "使用AHK接管Copilot键",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://blog.hzchu.top/2025/%E4%BD%BF%E7%94%A8AHK%E6%8E%A5%E7%AE%A1Copilot%E9%94%AE/",
-      "author": "Thun888",
-      "avatar": "https://blog.hzchu.top/img/avatar.webp"
-    },
-    {
-      "floor": 7,
-      "title": "探索网络实验的神器 Mininet",
-      "created": "2025-09-27",
-      "updated": "2025-09-30",
-      "link": "https://dusays.com/829/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/favicon.ico"
-    },
-    {
-      "floor": 8,
-      "title": "免费搭建自己的头像源",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://qxzhan.cn/post/avatareo.php",
-      "author": "青序栈",
-      "avatar": "https://qxzhan.cn/favicon.png"
-    },
-    {
-      "floor": 9,
       "title": "水：国庆前的超水日常记录！",
       "created": "2025-09-27",
       "updated": "2025-09-27",
@@ -89,13 +62,40 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 10,
+      "floor": 7,
       "title": "广州地铁3号线B11新车初体验",
       "created": "2025-09-27",
       "updated": "2025-09-27",
       "link": "https://note.redcha.cn/archives/guang-zhou-di-tie-3hao-xian-b11xin-che-chu-ti-yan",
       "author": "彬红茶日记",
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
+    },
+    {
+      "floor": 8,
+      "title": "使用AHK接管Copilot键",
+      "created": "2025-09-27",
+      "updated": "2025-09-27",
+      "link": "https://blog.hzchu.top/2025/%E4%BD%BF%E7%94%A8AHK%E6%8E%A5%E7%AE%A1Copilot%E9%94%AE/",
+      "author": "Thun888",
+      "avatar": "https://blog.hzchu.top/img/avatar.webp"
+    },
+    {
+      "floor": 9,
+      "title": "探索网络实验的神器 Mininet",
+      "created": "2025-09-27",
+      "updated": "2025-09-30",
+      "link": "https://dusays.com/829/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/favicon.ico"
+    },
+    {
+      "floor": 10,
+      "title": "免费搭建自己的头像源",
+      "created": "2025-09-27",
+      "updated": "2025-09-27",
+      "link": "https://qxzhan.cn/post/avatareo.php",
+      "author": "青序栈",
+      "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
       "floor": 11,
@@ -261,21 +261,21 @@
     },
     {
       "floor": 29,
-      "title": "一个简单的视频字幕转写和翻译流程",
-      "created": "2025-09-07",
-      "updated": "2025-09-07",
-      "link": "https://blog.hzchu.top/2025/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E8%A7%86%E9%A2%91%E5%AD%97%E5%B9%95%E8%BD%AC%E5%86%99%E5%92%8C%E7%BF%BB%E8%AF%91%E6%B5%81%E7%A8%8B/",
-      "author": "Thun888",
-      "avatar": "https://blog.hzchu.top/img/avatar.webp"
-    },
-    {
-      "floor": 30,
       "title": "回味我的理想“世界”里",
       "created": "2025-09-07",
       "updated": "2025-09-07",
       "link": "https://note.redcha.cn/archives/hui-wei-wo-de-li-xiang-shi-jie-li",
       "author": "彬红茶日记",
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
+    },
+    {
+      "floor": 30,
+      "title": "一个简单的视频字幕转写和翻译流程",
+      "created": "2025-09-07",
+      "updated": "2025-09-07",
+      "link": "https://blog.hzchu.top/2025/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E8%A7%86%E9%A2%91%E5%AD%97%E5%B9%95%E8%BD%AC%E5%86%99%E5%92%8C%E7%BF%BB%E8%AF%91%E6%B5%81%E7%A8%8B/",
+      "author": "Thun888",
+      "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
       "floor": 31,
