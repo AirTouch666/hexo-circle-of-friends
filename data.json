@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 67,
-    "last_updated_time": "2025-09-30 05:17:18"
+    "article_num": 66,
+    "last_updated_time": "2025-09-30 09:25:58"
   },
   "article_data": [
     {
@@ -585,15 +585,6 @@
     },
     {
       "floor": 65,
-      "title": "【观影 · 剧透慎入】《南京照相馆》",
-      "created": "2025-07-31",
-      "updated": "2025-07-31",
-      "link": "https://blog.ohdragonboi.cn/blog/movie-dead-to-rights-reveiw/",
-      "author": "Frederick's Blog",
-      "avatar": "https://blog.ohdragonboi.cn/_astro/favicon.kz6zgvIB_Z1snDk4.webp"
-    },
-    {
-      "floor": 66,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-09-17",
@@ -602,7 +593,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 67,
+      "floor": 66,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
