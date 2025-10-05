@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 19,
-    "error_num": 3,
+    "active_num": 20,
+    "error_num": 2,
     "article_num": 84,
-    "last_updated_time": "2025-10-05 20:36:31"
+    "last_updated_time": "2025-10-06 02:25:42"
   },
   "article_data": [
     {
@@ -38,7 +38,7 @@
       "floor": 4,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
-      "updated": "2025-10-04",
+      "updated": "2025-10-05",
       "link": "https://dusays.com/830/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
@@ -126,24 +126,6 @@
     },
     {
       "floor": 14,
-      "title": "水：国庆前的超水日常记录！",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://note.redcha.cn/archives/shui-guo-qing-qian-de-chao-shui-ri-chang-ji-lu",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 15,
-      "title": "广州地铁3号线B11新车初体验",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://note.redcha.cn/archives/guang-zhou-di-tie-3hao-xian-b11xin-che-chu-ti-yan",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 16,
       "title": "使用AHK接管Copilot键",
       "created": "2025-09-27",
       "updated": "2025-09-27",
@@ -152,22 +134,40 @@
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
-      "floor": 17,
+      "floor": 15,
       "title": "探索网络实验的神器 Mininet",
       "created": "2025-09-27",
-      "updated": "2025-10-04",
+      "updated": "2025-10-05",
       "link": "https://dusays.com/829/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 18,
+      "floor": 16,
       "title": "免费搭建自己的头像源",
       "created": "2025-09-27",
       "updated": "2025-09-27",
       "link": "https://qxzhan.cn/post/avatareo.php",
       "author": "青序栈",
       "avatar": "https://qxzhan.cn/favicon.png"
+    },
+    {
+      "floor": 17,
+      "title": "水：国庆前的超水日常记录！",
+      "created": "2025-09-27",
+      "updated": "2025-09-27",
+      "link": "https://note.redcha.cn/archives/shui-guo-qing-qian-de-chao-shui-ri-chang-ji-lu",
+      "author": "彬红茶日记",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
+    },
+    {
+      "floor": 18,
+      "title": "广州地铁3号线B11新车初体验",
+      "created": "2025-09-27",
+      "updated": "2025-09-27",
+      "link": "https://note.redcha.cn/archives/guang-zhou-di-tie-3hao-xian-b11xin-che-chu-ti-yan",
+      "author": "彬红茶日记",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
       "floor": 19,
@@ -191,7 +191,7 @@
       "floor": 21,
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
       "created": "2025-09-21",
-      "updated": "2025-10-04",
+      "updated": "2025-10-05",
       "link": "https://dusays.com/828/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
@@ -263,7 +263,7 @@
       "floor": 29,
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-15",
-      "updated": "2025-10-04",
+      "updated": "2025-10-05",
       "link": "https://dusays.com/827/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
@@ -317,7 +317,7 @@
       "floor": 35,
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
       "created": "2025-09-09",
-      "updated": "2025-10-04",
+      "updated": "2025-10-05",
       "link": "https://dusays.com/826/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
