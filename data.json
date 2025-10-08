@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 18,
     "error_num": 4,
-    "article_num": 90,
-    "last_updated_time": "2025-10-08 05:17:19"
+    "article_num": 88,
+    "last_updated_time": "2025-10-08 09:25:17"
   },
   "article_data": [
     {
@@ -783,24 +783,6 @@
     },
     {
       "floor": 87,
-      "title": "使用浏览器脚本 半自动刷课",
-      "created": "2025-08-08",
-      "updated": "2025-08-08",
-      "link": "https://blog.tsd.my/posts/fuck_ewt/",
-      "author": "Tavre Blog",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"
-    },
-    {
-      "floor": 88,
-      "title": "循一缕风，入山偷得夏日凉",
-      "created": "2025-08-08",
-      "updated": "2025-08-08",
-      "link": "https://blog.liushen.fun/posts/aae6fd55/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "floor": 89,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
@@ -809,7 +791,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 90,
+      "floor": 88,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
