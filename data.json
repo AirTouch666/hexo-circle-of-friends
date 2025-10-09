@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 19,
     "error_num": 3,
-    "article_num": 89,
-    "last_updated_time": "2025-10-09 05:18:00"
+    "article_num": 88,
+    "last_updated_time": "2025-10-09 09:25:45"
   },
   "article_data": [
     {
@@ -783,15 +783,6 @@
     },
     {
       "floor": 87,
-      "title": "网站更新",
-      "created": "2025-08-09",
-      "updated": "2025-08-09",
-      "link": "https://blog.hzchu.top/2025/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0/",
-      "author": "Thun888",
-      "avatar": "https://blog.hzchu.top/img/avatar.webp"
-    },
-    {
-      "floor": 88,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
@@ -800,7 +791,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 89,
+      "floor": 88,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
