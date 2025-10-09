@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 19,
-    "error_num": 3,
-    "article_num": 88,
-    "last_updated_time": "2025-10-09 09:25:45"
+    "active_num": 20,
+    "error_num": 2,
+    "article_num": 89,
+    "last_updated_time": "2025-10-09 14:30:59"
   },
   "article_data": [
     {
@@ -18,6 +18,15 @@
     },
     {
       "floor": 2,
+      "title": "欢迎使用 Anheyu-App！",
+      "created": "2025-10-09",
+      "updated": "2025-10-09",
+      "link": "https://blog.anheyu.com/posts/5sQj",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "floor": 3,
       "title": "使用napcat推送uptime kuma事件到QQ群或个人消息",
       "created": "2025-10-08",
       "updated": "2025-10-08",
@@ -26,25 +35,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/140036207?v=4"
     },
     {
-      "floor": 3,
-      "title": "刚过中秋！记录一下最近的妙事",
-      "created": "2025-10-07",
-      "updated": "2025-10-07",
-      "link": "https://note.redcha.cn/archives/gang-guo-zhong-qiu-ji-lu-yi-xia-zui-jin-de-miao-shi",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
       "floor": 4,
-      "title": "贵州暑假游①：高铁舒适行，贵阳初体验",
-      "created": "2025-10-07",
-      "updated": "2025-10-07",
-      "link": "https://note.redcha.cn/archives/gui-zhou-shu-jia-you-gao-tie-shu-gua-xing-gui-yang-chu-ti-yan",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 5,
       "title": "使用TinyAuth实现任意应用登录认证",
       "created": "2025-10-07",
       "updated": "2025-10-07",
@@ -53,7 +44,25 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "floor": 5,
+      "title": "刚过中秋！记录一下最近的妙事",
+      "created": "2025-10-07",
+      "updated": "2025-10-07",
+      "link": "https://note.redcha.cn/archives/gang-guo-zhong-qiu-ji-lu-yi-xia-zui-jin-de-miao-shi",
+      "author": "彬红茶日记",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
+    },
+    {
       "floor": 6,
+      "title": "贵州暑假游①：高铁舒适行，贵阳初体验",
+      "created": "2025-10-07",
+      "updated": "2025-10-07",
+      "link": "https://note.redcha.cn/archives/gui-zhou-shu-jia-you-gao-tie-shu-gua-xing-gui-yang-chu-ti-yan",
+      "author": "彬红茶日记",
+      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
+    },
+    {
+      "floor": 7,
       "title": "谈谈不受欢迎的博客技术特征",
       "created": "2025-10-07",
       "updated": "2025-10-07",
@@ -62,7 +71,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 7,
+      "floor": 8,
       "title": "Github Actions 实现雨云自动签到",
       "created": "2025-10-06",
       "updated": "2025-10-06",
@@ -71,7 +80,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 8,
+      "floor": 9,
       "title": "解除宽带限速，需要怎么投诉？",
       "created": "2025-10-05",
       "updated": "2025-10-05",
@@ -80,7 +89,7 @@
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
-      "floor": 9,
+      "floor": 10,
       "title": "魔法少女的魔女审判解包（Unity通用解包方案）",
       "created": "2025-10-05",
       "updated": "2025-10-05",
@@ -89,7 +98,7 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
-      "floor": 10,
+      "floor": 11,
       "title": "岭南寻光记：两日粤地漫游，打捞时光碎片",
       "created": "2025-10-04",
       "updated": "2025-10-04",
@@ -98,7 +107,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 11,
+      "floor": 12,
       "title": "本站20251004公告",
       "created": "2025-10-04",
       "updated": "2025-10-04",
@@ -107,16 +116,16 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 12,
+      "floor": 13,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
-      "updated": "2025-10-08",
+      "updated": "2025-10-09",
       "link": "https://dusays.com/830/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 13,
+      "floor": 14,
       "title": "观纪录片《苏轼》（上）",
       "created": "2025-10-02",
       "updated": "2025-10-02",
@@ -125,7 +134,7 @@
       "avatar": "https://blog.ohdragonboi.cn/_astro/favicon.kz6zgvIB_Z1snDk4.webp"
     },
     {
-      "floor": 14,
+      "floor": 15,
       "title": "免费获得17级域名并且托管在CF——IPv6反解域名",
       "created": "2025-10-02",
       "updated": "2025-10-02",
@@ -134,7 +143,7 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "floor": 15,
+      "floor": 16,
       "title": "飞机户外公开课：放飞梦想的课堂",
       "created": "2025-10-01",
       "updated": "2025-10-01",
@@ -143,7 +152,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 16,
+      "floor": 17,
       "title": "化学实验课与喜迎国庆！",
       "created": "2025-10-01",
       "updated": "2025-10-01",
@@ -152,7 +161,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 17,
+      "floor": 18,
       "title": "不同姿势部署Anheyu-App应用",
       "created": "2025-09-30",
       "updated": "2025-09-30",
@@ -161,7 +170,7 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "floor": 18,
+      "floor": 19,
       "title": "在Mac上玩GalGame竟如此简单！",
       "created": "2025-09-30",
       "updated": "2025-09-30",
@@ -170,7 +179,7 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
-      "floor": 19,
+      "floor": 20,
       "title": "我为什么要买个Mac",
       "created": "2025-09-30",
       "updated": "2025-09-30",
@@ -179,7 +188,7 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
-      "floor": 20,
+      "floor": 21,
       "title": "一个高仿某红薯平台-部署教程",
       "created": "2025-09-30",
       "updated": "2025-09-30",
@@ -188,7 +197,7 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "floor": 21,
+      "floor": 22,
       "title": "第一次成为高中牲",
       "created": "2025-09-30",
       "updated": "2025-09-30",
@@ -197,7 +206,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"
     },
     {
-      "floor": 22,
+      "floor": 23,
       "title": "水：国庆前的超水日常记录！",
       "created": "2025-09-27",
       "updated": "2025-09-27",
@@ -206,7 +215,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 23,
+      "floor": 24,
       "title": "广州地铁3号线B11新车初体验",
       "created": "2025-09-27",
       "updated": "2025-09-27",
@@ -215,7 +224,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 24,
+      "floor": 25,
       "title": "使用AHK接管Copilot键",
       "created": "2025-09-27",
       "updated": "2025-09-27",
@@ -224,16 +233,16 @@
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
-      "floor": 25,
+      "floor": 26,
       "title": "探索网络实验的神器 Mininet",
       "created": "2025-09-27",
-      "updated": "2025-10-08",
+      "updated": "2025-10-09",
       "link": "https://dusays.com/829/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 26,
+      "floor": 27,
       "title": "免费搭建自己的头像源",
       "created": "2025-09-27",
       "updated": "2025-09-27",
@@ -242,7 +251,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 27,
+      "floor": 28,
       "title": "[Tarekcloud] HongKong EPYC 大杯",
       "created": "2025-09-26",
       "updated": "2025-09-26",
@@ -251,7 +260,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 28,
+      "floor": 29,
       "title": "今年最强台风就要突袭！",
       "created": "2025-09-22",
       "updated": "2025-09-22",
@@ -260,16 +269,16 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 29,
+      "floor": 30,
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
       "created": "2025-09-21",
-      "updated": "2025-10-08",
+      "updated": "2025-10-09",
       "link": "https://dusays.com/828/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 30,
+      "floor": 31,
       "title": "[Zouter]HK BGP Global - Storage测评",
       "created": "2025-09-21",
       "updated": "2025-09-21",
@@ -278,7 +287,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 31,
+      "floor": 32,
       "title": "水文 | 广州地铁3号线异常停车(常见)",
       "created": "2025-09-20",
       "updated": "2025-09-20",
@@ -287,7 +296,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 32,
+      "floor": 33,
       "title": "南沙行迹：天后宫与明珠湾大桥的诗意邂逅",
       "created": "2025-09-20",
       "updated": "2025-09-20",
@@ -296,7 +305,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 33,
+      "floor": 34,
       "title": "关于cloudflare分配.1",
       "created": "2025-09-18",
       "updated": "2025-09-18",
@@ -305,7 +314,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/140036207?v=4"
     },
     {
-      "floor": 34,
+      "floor": 35,
       "title": "Fuwari静态博客搭建教程",
       "created": "2025-09-17",
       "updated": "2025-09-17",
@@ -314,7 +323,7 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
-      "floor": 35,
+      "floor": 36,
       "title": "现代！易上手！高效！且社区支持的超高校级的MarkDown编辑器！",
       "created": "2025-09-17",
       "updated": "2025-09-17",
@@ -323,7 +332,7 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
-      "floor": 36,
+      "floor": 37,
       "title": "Casdoor强行兼容Artalk社交登录",
       "created": "2025-09-16",
       "updated": "2025-09-16",
@@ -332,16 +341,16 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "floor": 37,
+      "floor": 38,
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-15",
-      "updated": "2025-10-08",
+      "updated": "2025-10-09",
       "link": "https://dusays.com/827/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 38,
+      "floor": 39,
       "title": "教你部署Astro Fuwari静态博客",
       "created": "2025-09-13",
       "updated": "2025-09-13",
@@ -350,7 +359,7 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "floor": 39,
+      "floor": 40,
       "title": "CNB迁移和UI定制",
       "created": "2025-09-13",
       "updated": "2025-09-13",
@@ -359,7 +368,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 40,
+      "floor": 41,
       "title": "全自动ICP查询API",
       "created": "2025-09-12",
       "updated": "2025-09-12",
@@ -368,7 +377,7 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
-      "floor": 41,
+      "floor": 42,
       "title": "禁用Astro跟弱智一般的静态构建图像优化",
       "created": "2025-09-10",
       "updated": "2025-09-10",
@@ -377,7 +386,7 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
-      "floor": 42,
+      "floor": 43,
       "title": "血证未泯，山河已立",
       "created": "2025-09-09",
       "updated": "2025-09-09",
@@ -386,16 +395,16 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "floor": 43,
+      "floor": 44,
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
       "created": "2025-09-09",
-      "updated": "2025-10-08",
+      "updated": "2025-10-09",
       "link": "https://dusays.com/826/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 44,
+      "floor": 45,
       "title": "雨云日本东京服务器测评",
       "created": "2025-09-09",
       "updated": "2025-09-09",
@@ -404,7 +413,7 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "floor": 45,
+      "floor": 46,
       "title": "给你的Fuwari加一个AI摘要",
       "created": "2025-09-08",
       "updated": "2025-09-08",
@@ -413,7 +422,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/140036207?v=4"
     },
     {
-      "floor": 46,
+      "floor": 47,
       "title": "ZFile工具",
       "created": "2025-09-08",
       "updated": "2025-09-09",
@@ -422,7 +431,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 47,
+      "floor": 48,
       "title": "回味我的理想“世界”里",
       "created": "2025-09-07",
       "updated": "2025-09-07",
@@ -431,7 +440,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 48,
+      "floor": 49,
       "title": "一个简单的视频字幕转写和翻译流程",
       "created": "2025-09-07",
       "updated": "2025-09-07",
@@ -440,7 +449,7 @@
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
-      "floor": 49,
+      "floor": 50,
       "title": "速建Discourse论坛-小白也可以",
       "created": "2025-09-06",
       "updated": "2025-09-06",
@@ -449,7 +458,7 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "floor": 50,
+      "floor": 51,
       "title": "免费部署Lsky Pro+",
       "created": "2025-09-06",
       "updated": "2025-09-06",
@@ -458,7 +467,7 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "floor": 51,
+      "floor": 52,
       "title": "新主题astro-theme-fishcpy",
       "created": "2025-09-06",
       "updated": "2025-09-06",
@@ -467,7 +476,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/140036207?v=4"
     },
     {
-      "floor": 52,
+      "floor": 53,
       "title": "2025/9/7 梦记",
       "created": "2025-09-06",
       "updated": "2025-09-06",
@@ -476,7 +485,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 53,
+      "floor": 54,
       "title": "天津游记「多图预警」",
       "created": "2025-09-03",
       "updated": "2025-10-02",
@@ -485,7 +494,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 54,
+      "floor": 55,
       "title": "初三再军训 魂已没",
       "created": "2025-09-02",
       "updated": "2025-09-02",
@@ -494,7 +503,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 55,
+      "floor": 56,
       "title": "HEXO-AI摘要插件",
       "created": "2025-09-02",
       "updated": "2025-09-02",
@@ -503,7 +512,7 @@
       "avatar": "https://imgse.koxiuqiu.cc/imgse/u/19/2025/02/20/67b737d854192.webp"
     },
     {
-      "floor": 56,
+      "floor": 57,
       "title": "本站2025年9月告知",
       "created": "2025-08-30",
       "updated": "2025-08-30",
@@ -512,7 +521,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 57,
+      "floor": 58,
       "title": "[Deluxhost] 1.99欧月付 VPS STANDARD - VPS-1 荷兰G口无限流量",
       "created": "2025-08-30",
       "updated": "2025-08-30",
@@ -521,7 +530,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 58,
+      "floor": 59,
       "title": "澎湃OS3 使用体验",
       "created": "2025-08-30",
       "updated": "2025-08-30",
@@ -530,7 +539,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"
     },
     {
-      "floor": 59,
+      "floor": 60,
       "title": "CNB刷新EO缓存和插件化",
       "created": "2025-08-30",
       "updated": "2025-08-30",
@@ -539,7 +548,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 60,
+      "floor": 61,
       "title": "第三方1Panel应用商店不完全指北",
       "created": "2025-08-29",
       "updated": "2025-08-29",
@@ -548,7 +557,7 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "floor": 61,
+      "floor": 62,
       "title": "最近的小事",
       "created": "2025-08-29",
       "updated": "2025-08-29",
@@ -557,7 +566,7 @@
       "avatar": "https://www.xscnet.cn/avatar1.jpg"
     },
     {
-      "floor": 62,
+      "floor": 63,
       "title": "合肥游记「多图预警」",
       "created": "2025-08-28",
       "updated": "2025-09-26",
@@ -566,7 +575,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 63,
+      "floor": 64,
       "title": "零九CDN使用体验",
       "created": "2025-08-27",
       "updated": "2025-08-27",
@@ -575,7 +584,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 64,
+      "floor": 65,
       "title": "Bing每日图片部署教程",
       "created": "2025-08-25",
       "updated": "2025-08-25",
@@ -584,7 +593,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 65,
+      "floor": 66,
       "title": "新的开源ICP备案系统Yuan-ICP 高拓展性的新一代备案系统",
       "created": "2025-08-25",
       "updated": "2025-08-25",
@@ -593,7 +602,7 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "floor": 66,
+      "floor": 67,
       "title": "使用Eo Pages免费搭建随机图API！",
       "created": "2025-08-25",
       "updated": "2025-08-25",
@@ -602,7 +611,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 67,
+      "floor": 68,
       "title": "Joe再续前缘魔改（四）",
       "created": "2025-08-25",
       "updated": "2025-08-25",
@@ -611,7 +620,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 68,
+      "floor": 69,
       "title": "什么是英语听说？",
       "created": "2025-08-24",
       "updated": "2025-08-24",
@@ -620,7 +629,7 @@
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
-      "floor": 69,
+      "floor": 70,
       "title": "CNB远程部署和EdgeOne Pages",
       "created": "2025-08-24",
       "updated": "2025-08-24",
@@ -629,7 +638,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 70,
+      "floor": 71,
       "title": "CNB切换默认开发环境",
       "created": "2025-08-23",
       "updated": "2025-08-24",
@@ -638,7 +647,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 71,
+      "floor": 72,
       "title": "探索扣子空间「邀请码不限量分享」",
       "created": "2025-08-22",
       "updated": "2025-09-20",
@@ -647,7 +656,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 72,
+      "floor": 73,
       "title": "晚餐一道小菜（真）",
       "created": "2025-08-22",
       "updated": "2025-08-22",
@@ -656,7 +665,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 73,
+      "floor": 74,
       "title": "《南京照相馆》：在战争的废墟上，显影人性的底片",
       "created": "2025-08-22",
       "updated": "2025-08-22",
@@ -665,7 +674,7 @@
       "avatar": "https://blog.ohdragonboi.cn/_astro/favicon.kz6zgvIB_Z1snDk4.webp"
     },
     {
-      "floor": 74,
+      "floor": 75,
       "title": "通过歌曲名获取网易云原文+翻译歌词(网易云api)",
       "created": "2025-08-22",
       "updated": "2025-08-22",
@@ -674,7 +683,7 @@
       "avatar": "https://r2cfimg.showby.top/2024/09/19/66eb06a884fb9.jpg"
     },
     {
-      "floor": 75,
+      "floor": 76,
       "title": "阿里图床 不死速度快无敌图床！",
       "created": "2025-08-22",
       "updated": "2025-08-22",
@@ -683,7 +692,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"
     },
     {
-      "floor": 76,
+      "floor": 77,
       "title": "橘喵云自营CDN使用体验",
       "created": "2025-08-20",
       "updated": "2025-08-20",
@@ -692,7 +701,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 77,
+      "floor": 78,
       "title": "漫长的日常",
       "created": "2025-08-19",
       "updated": "2025-08-19",
@@ -701,7 +710,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 78,
+      "floor": 79,
       "title": "使用VitePress为随机图片API制作了一个文档",
       "created": "2025-08-18",
       "updated": "2025-08-18",
@@ -710,7 +719,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 79,
+      "floor": 80,
       "title": "trae AI 编辑器SOLO模式貌似会注入广告",
       "created": "2025-08-18",
       "updated": "2025-08-18",
@@ -719,7 +728,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/140036207?v=4"
     },
     {
-      "floor": 80,
+      "floor": 81,
       "title": "非人哉：限时玩家评价",
       "created": "2025-08-18",
       "updated": "2025-08-18",
@@ -728,7 +737,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/140036207?v=4"
     },
     {
-      "floor": 81,
+      "floor": 82,
       "title": "我们的设备被拿来做了什么：软件的背景行为",
       "created": "2025-08-18",
       "updated": "2025-08-18",
@@ -737,7 +746,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 82,
+      "floor": 83,
       "title": "为了我的追剧 不惜一切搭建影视站",
       "created": "2025-08-16",
       "updated": "2025-08-16",
@@ -746,7 +755,7 @@
       "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
     },
     {
-      "floor": 83,
+      "floor": 84,
       "title": "5E你不想干了是吧",
       "created": "2025-08-15",
       "updated": "2025-08-15",
@@ -755,7 +764,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"
     },
     {
-      "floor": 84,
+      "floor": 85,
       "title": "一种在Vercel上运行Artalk的思路",
       "created": "2025-08-14",
       "updated": "2025-08-14",
@@ -764,7 +773,7 @@
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
-      "floor": 85,
+      "floor": 86,
       "title": "不小心发现了一次数据泄露",
       "created": "2025-08-13",
       "updated": "2025-08-13",
@@ -773,7 +782,7 @@
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
     },
     {
-      "floor": 86,
+      "floor": 87,
       "title": "使用腾讯CNB构建属于你的AI绘画",
       "created": "2025-08-12",
       "updated": "2025-08-12",
@@ -782,7 +791,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"
     },
     {
-      "floor": 87,
+      "floor": 88,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
@@ -791,7 +800,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 88,
+      "floor": 89,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
