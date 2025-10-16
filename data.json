@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 111,
-    "last_updated_time": "2025-10-16 05:17:50"
+    "article_num": 110,
+    "last_updated_time": "2025-10-16 09:27:25"
   },
   "article_data": [
     {
@@ -981,15 +981,6 @@
     },
     {
       "floor": 109,
-      "title": "为了我的追剧 不惜一切搭建影视站",
-      "created": "2025-08-16",
-      "updated": "2025-08-16",
-      "link": "https://note.redcha.cn/archives/wei-liao-wo-de-zhui-ju-bu-xi-yi-qie-da-jian-ying-shi-zhan",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 110,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
@@ -998,7 +989,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 111,
+      "floor": 110,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
