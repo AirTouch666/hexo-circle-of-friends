@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 114,
-    "last_updated_time": "2025-11-08 05:15:52"
+    "article_num": 113,
+    "last_updated_time": "2025-11-08 09:26:51"
   },
   "article_data": [
     {
@@ -963,15 +963,6 @@
     },
     {
       "floor": 107,
-      "title": "给你的Fuwari加一个AI摘要",
-      "created": "2025-09-08",
-      "updated": "2025-09-08",
-      "link": "https://blog.fis.ink/posts/35",
-      "author": "fishcpy的小破站",
-      "avatar": "https://avatars.githubusercontent.com/u/140036207?v=4"
-    },
-    {
-      "floor": 108,
       "title": "ZFile工具",
       "created": "2025-09-08",
       "updated": "2025-09-09",
@@ -980,7 +971,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 109,
+      "floor": 108,
       "title": "天津游记「多图预警」",
       "created": "2025-09-03",
       "updated": "2025-10-02",
@@ -989,7 +980,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 110,
+      "floor": 109,
       "title": "合肥游记「多图预警」",
       "created": "2025-08-28",
       "updated": "2025-09-26",
@@ -998,7 +989,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 111,
+      "floor": 110,
       "title": "零九CDN使用体验",
       "created": "2025-08-27",
       "updated": "2025-10-10",
@@ -1007,7 +998,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 112,
+      "floor": 111,
       "title": "探索扣子空间「邀请码不限量分享」",
       "created": "2025-08-22",
       "updated": "2025-09-20",
@@ -1016,7 +1007,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 113,
+      "floor": 112,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
@@ -1025,7 +1016,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 114,
+      "floor": 113,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
