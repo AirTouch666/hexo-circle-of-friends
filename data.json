@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 111,
-    "last_updated_time": "2025-11-10 05:17:27"
+    "article_num": 110,
+    "last_updated_time": "2025-11-10 09:44:17"
   },
   "article_data": [
     {
@@ -74,7 +74,7 @@
       "floor": 8,
       "title": "Linux日志查找",
       "created": "2025-11-04",
-      "updated": "2025-11-04",
+      "updated": "2025-11-10",
       "link": "https://www.hudi.space/posts/b192bb3/",
       "author": "短巷与雨",
       "avatar": "https://www.hudi.space/img/avator.jpg"
@@ -506,7 +506,7 @@
       "floor": 56,
       "title": "再见，普莫雍措",
       "created": "2025-10-09",
-      "updated": "2025-10-09",
+      "updated": "2025-11-10",
       "link": "https://www.hudi.space/posts/216f8ab9/",
       "author": "短巷与雨",
       "avatar": "https://www.hudi.space/img/avator.jpg"
@@ -936,15 +936,6 @@
     },
     {
       "floor": 104,
-      "title": "禁用Astro跟弱智一般的静态构建图像优化",
-      "created": "2025-09-10",
-      "updated": "2025-09-10",
-      "link": "https://2x.nz/posts/disable-astro-generating-optimized-images/",
-      "author": "AcoFork Blog",
-      "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
-    },
-    {
-      "floor": 105,
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
       "created": "2025-09-09",
       "updated": "2025-10-09",
@@ -953,7 +944,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 106,
+      "floor": 105,
       "title": "天津游记「多图预警」",
       "created": "2025-09-03",
       "updated": "2025-10-02",
@@ -962,7 +953,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 107,
+      "floor": 106,
       "title": "合肥游记「多图预警」",
       "created": "2025-08-28",
       "updated": "2025-09-26",
@@ -971,7 +962,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 108,
+      "floor": 107,
       "title": "零九CDN使用体验",
       "created": "2025-08-27",
       "updated": "2025-10-10",
@@ -980,7 +971,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 109,
+      "floor": 108,
       "title": "探索扣子空间「邀请码不限量分享」",
       "created": "2025-08-22",
       "updated": "2025-09-20",
@@ -989,7 +980,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 110,
+      "floor": 109,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
@@ -998,7 +989,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 111,
+      "floor": 110,
       "title": "VitePress 不完全优化指南",
       "created": "2024-11-03",
       "updated": "2025-09-15",
