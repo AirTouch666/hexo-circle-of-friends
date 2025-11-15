@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 115,
-    "last_updated_time": "2025-11-15 05:19:59"
+    "article_num": 114,
+    "last_updated_time": "2025-11-15 09:29:17"
   },
   "article_data": [
     {
@@ -1030,15 +1030,6 @@
       "created": "2025-04-16",
       "updated": "2025-10-06",
       "link": "https://blog.zhilu.site/2025/font-tips",
-      "author": "纸鹿摸鱼处",
-      "avatar": "https://www.zhilu.site/api/avatar.png"
-    },
-    {
-      "floor": 115,
-      "title": "VitePress 不完全优化指南",
-      "created": "2024-11-03",
-      "updated": "2025-09-15",
-      "link": "https://blog.zhilu.site/2024/vitepress-enhancement",
       "author": "纸鹿摸鱼处",
       "avatar": "https://www.zhilu.site/api/avatar.png"
     }
