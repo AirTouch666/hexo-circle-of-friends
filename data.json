@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 116,
-    "last_updated_time": "2025-11-20 05:17:09"
+    "article_num": 113,
+    "last_updated_time": "2025-11-20 09:39:13"
   },
   "article_data": [
     {
@@ -972,24 +972,6 @@
     },
     {
       "floor": 108,
-      "title": "水文 | 广州地铁3号线异常停车(常见)",
-      "created": "2025-09-20",
-      "updated": "2025-09-20",
-      "link": "https://note.redcha.cn/archives/guang-zhou-di-tie-3hao-xian-yi-chang-ting-che-chang-jian",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 109,
-      "title": "南沙行迹：天后宫与明珠湾大桥的诗意邂逅",
-      "created": "2025-09-20",
-      "updated": "2025-09-20",
-      "link": "https://note.redcha.cn/archives/nan-sha-xing-ji-tian-hou-gong-yu-ming-zhu-wan-da-qiao-de-shi-yi-xie-hou",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 110,
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-15",
       "updated": "2025-10-14",
@@ -998,7 +980,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 111,
+      "floor": 109,
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
       "created": "2025-09-09",
       "updated": "2025-10-09",
@@ -1007,7 +989,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 112,
+      "floor": 110,
       "title": "天津游记「多图预警」",
       "created": "2025-09-03",
       "updated": "2025-10-02",
@@ -1016,7 +998,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 113,
+      "floor": 111,
       "title": "合肥游记「多图预警」",
       "created": "2025-08-28",
       "updated": "2025-09-26",
@@ -1025,7 +1007,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 114,
+      "floor": 112,
       "title": "零九CDN使用体验",
       "created": "2025-08-27",
       "updated": "2025-10-10",
@@ -1034,16 +1016,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 115,
-      "title": "探索扣子空间「邀请码不限量分享」",
-      "created": "2025-08-22",
-      "updated": "2025-09-20",
-      "link": "https://dusays.com/823/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/favicon.ico"
-    },
-    {
-      "floor": 116,
+      "floor": 113,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
