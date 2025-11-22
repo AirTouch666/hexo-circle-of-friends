@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 114,
-    "last_updated_time": "2025-11-22 05:19:14"
+    "article_num": 113,
+    "last_updated_time": "2025-11-22 09:28:15"
   },
   "article_data": [
     {
@@ -963,15 +963,6 @@
     },
     {
       "floor": 107,
-      "title": "今年最强台风就要突袭！",
-      "created": "2025-09-22",
-      "updated": "2025-09-22",
-      "link": "https://note.redcha.cn/archives/jin-nian-zui-qiang-tai-feng-jiu-yao-tu-xi",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 108,
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
       "created": "2025-09-21",
       "updated": "2025-10-20",
@@ -980,7 +971,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 109,
+      "floor": 108,
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-15",
       "updated": "2025-10-14",
@@ -989,7 +980,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 110,
+      "floor": 109,
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
       "created": "2025-09-09",
       "updated": "2025-10-09",
@@ -998,7 +989,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 111,
+      "floor": 110,
       "title": "天津游记「多图预警」",
       "created": "2025-09-03",
       "updated": "2025-10-02",
@@ -1007,7 +998,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 112,
+      "floor": 111,
       "title": "合肥游记「多图预警」",
       "created": "2025-08-28",
       "updated": "2025-09-26",
@@ -1016,7 +1007,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 113,
+      "floor": 112,
       "title": "零九CDN使用体验",
       "created": "2025-08-27",
       "updated": "2025-10-10",
@@ -1025,7 +1016,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 114,
+      "floor": 113,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
