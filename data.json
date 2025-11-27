@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 115,
-    "last_updated_time": "2025-11-27 05:19:02"
+    "article_num": 111,
+    "last_updated_time": "2025-11-27 09:39:49"
   },
   "article_data": [
     {
@@ -945,24 +945,6 @@
     },
     {
       "floor": 105,
-      "title": "广州地铁3号线B11新车初体验",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://note.redcha.cn/archives/guang-zhou-di-tie-3hao-xian-b11xin-che-chu-ti-yan",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 106,
-      "title": "水：国庆前的超水日常记录！",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://note.redcha.cn/archives/shui-guo-qing-qian-de-chao-shui-ri-chang-ji-lu",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 107,
       "title": "探索网络实验的神器 Mininet",
       "created": "2025-09-27",
       "updated": "2025-10-26",
@@ -971,25 +953,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 108,
-      "title": "使用AHK接管Copilot键",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://blog.hzchu.top/2025/%E4%BD%BF%E7%94%A8AHK%E6%8E%A5%E7%AE%A1Copilot%E9%94%AE/",
-      "author": "Thun888",
-      "avatar": "https://blog.hzchu.top/img/avatar.webp"
-    },
-    {
-      "floor": 109,
-      "title": "免费搭建自己的头像源",
-      "created": "2025-09-27",
-      "updated": "2025-09-27",
-      "link": "https://qxzhan.cn/post/avatareo.php",
-      "author": "青序栈",
-      "avatar": "https://qxzhan.cn/favicon.png"
-    },
-    {
-      "floor": 110,
+      "floor": 106,
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
       "created": "2025-09-21",
       "updated": "2025-10-20",
@@ -998,7 +962,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 111,
+      "floor": 107,
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-15",
       "updated": "2025-10-14",
@@ -1007,7 +971,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 112,
+      "floor": 108,
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
       "created": "2025-09-09",
       "updated": "2025-10-09",
@@ -1016,7 +980,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 113,
+      "floor": 109,
       "title": "天津游记「多图预警」",
       "created": "2025-09-03",
       "updated": "2025-10-02",
@@ -1025,7 +989,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 114,
+      "floor": 110,
       "title": "零九CDN使用体验",
       "created": "2025-08-27",
       "updated": "2025-10-10",
@@ -1034,7 +998,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 115,
+      "floor": 111,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
