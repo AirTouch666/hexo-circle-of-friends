@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 2,
     "article_num": 109,
-    "last_updated_time": "2025-12-03 02:34:44"
+    "last_updated_time": "2025-12-03 05:21:44"
   },
   "article_data": [
     {
@@ -65,7 +65,7 @@
       "floor": 7,
       "title": "在 Windows 部署 ToolDelta",
       "created": "2025-12-02",
-      "updated": "2025-11-02",
+      "updated": "2025-12-01",
       "link": "https://blog.yeqing.net/Windows-ToolDelta/",
       "author": "夜轻Blog",
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
