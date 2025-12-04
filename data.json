@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 109,
-    "last_updated_time": "2025-12-04 05:20:08"
+    "article_num": 107,
+    "last_updated_time": "2025-12-04 09:43:51"
   },
   "article_data": [
     {
@@ -909,24 +909,6 @@
     },
     {
       "floor": 101,
-      "title": "本站20251004公告",
-      "created": "2025-10-04",
-      "updated": "2025-10-04",
-      "link": "https://note.redcha.cn/archives/20251004-notice",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 102,
-      "title": "岭南寻光记：两日粤地漫游，打捞时光碎片",
-      "created": "2025-10-04",
-      "updated": "2025-10-04",
-      "link": "https://note.redcha.cn/archives/ling-nan-xun-guang-ji-liang-ri-yue-di-man-you-da-lao-shi-guang-sui-pian",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 103,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
       "updated": "2025-12-03",
@@ -935,7 +917,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 104,
+      "floor": 102,
       "title": "探索网络实验的神器 Mininet",
       "created": "2025-09-27",
       "updated": "2025-10-26",
@@ -944,7 +926,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 105,
+      "floor": 103,
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
       "created": "2025-09-21",
       "updated": "2025-10-20",
@@ -953,7 +935,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 106,
+      "floor": 104,
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-15",
       "updated": "2025-10-14",
@@ -962,7 +944,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 107,
+      "floor": 105,
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
       "created": "2025-09-09",
       "updated": "2025-10-09",
@@ -971,7 +953,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 108,
+      "floor": 106,
       "title": "零九CDN使用体验",
       "created": "2025-08-27",
       "updated": "2025-10-10",
@@ -980,7 +962,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 109,
+      "floor": 107,
       "title": "前端字体二三事",
       "created": "2025-04-16",
       "updated": "2025-10-06",
