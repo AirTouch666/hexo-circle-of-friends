@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 91,
-    "last_updated_time": "2025-12-14 05:19:07"
+    "article_num": 88,
+    "last_updated_time": "2025-12-14 09:52:13"
   },
   "article_data": [
     {
@@ -756,24 +756,6 @@
     },
     {
       "floor": 84,
-      "title": "多彩大理④：于苍山洱海间，打捞一夏的风与光",
-      "created": "2025-10-14",
-      "updated": "2025-10-14",
-      "link": "https://note.redcha.cn/archives/duo-cai-da-li-yu-cang-shan-er-hai-jian-da-lao-yi-xia-de-feng-yu-guang",
-      "author": "彬红茶日记",
-      "avatar": "https://note.redcha.cn/upload/favicon-256x256.png"
-    },
-    {
-      "floor": 85,
-      "title": "[Zouter]HK BGP Global - Performance测评",
-      "created": "2025-10-14",
-      "updated": "2025-10-14",
-      "link": "https://blog.yeqing.net/Zouter-HK-BGP-Global-Performance/",
-      "author": "夜轻Blog",
-      "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
-    },
-    {
-      "floor": 86,
       "title": "Focalboard 开源项目管理的有力工具",
       "created": "2025-10-09",
       "updated": "2025-12-13",
@@ -782,7 +764,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 87,
+      "floor": 85,
       "title": "再见，普莫雍措",
       "created": "2025-10-09",
       "updated": "2025-11-10",
@@ -791,7 +773,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 88,
+      "floor": 86,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
       "updated": "2025-12-13",
@@ -800,7 +782,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 89,
+      "floor": 87,
       "title": "探索网络实验的神器 Mininet",
       "created": "2025-09-27",
       "updated": "2025-10-26",
@@ -809,20 +791,11 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 90,
+      "floor": 88,
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
       "created": "2025-09-21",
       "updated": "2025-10-20",
       "link": "https://dusays.com/828/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/favicon.ico"
-    },
-    {
-      "floor": 91,
-      "title": "使用 Python 脚本实现图片相似度匹配",
-      "created": "2025-09-15",
-      "updated": "2025-10-14",
-      "link": "https://dusays.com/827/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     }
