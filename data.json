@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 89,
-    "last_updated_time": "2025-12-20 05:20:42"
+    "article_num": 87,
+    "last_updated_time": "2025-12-20 09:40:55"
   },
   "article_data": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "floor": 7,
-      "title": "部署Labelstudio在线标注系统",
+      "title": "部署LabelStudio在线标注系统",
       "created": "2025-12-16",
       "updated": "2025-12-19",
       "link": "https://blog.hzchu.top/2025/%E9%83%A8%E7%BD%B2Labelstudio/",
@@ -747,15 +747,6 @@
     },
     {
       "floor": 83,
-      "title": "图床测试",
-      "created": "2025-10-20",
-      "updated": "2025-10-20",
-      "link": "https://blog.tsd.my/posts/imgtest/",
-      "author": "Tavre Blog",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640"
-    },
-    {
-      "floor": 84,
       "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
       "created": "2025-10-15",
       "updated": "2025-12-19",
@@ -764,7 +755,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 85,
+      "floor": 84,
       "title": "Focalboard 开源项目管理的有力工具",
       "created": "2025-10-09",
       "updated": "2025-12-19",
@@ -773,7 +764,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 86,
+      "floor": 85,
       "title": "再见，普莫雍措",
       "created": "2025-10-09",
       "updated": "2025-11-10",
@@ -782,7 +773,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 87,
+      "floor": 86,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
       "updated": "2025-12-19",
@@ -791,20 +782,11 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 88,
+      "floor": 87,
       "title": "探索网络实验的神器 Mininet",
       "created": "2025-09-27",
       "updated": "2025-10-26",
       "link": "https://dusays.com/829/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/favicon.ico"
-    },
-    {
-      "floor": 89,
-      "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
-      "created": "2025-09-21",
-      "updated": "2025-10-20",
-      "link": "https://dusays.com/828/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     }
