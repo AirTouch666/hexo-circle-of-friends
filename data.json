@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 80,
-    "last_updated_time": "2026-01-02 05:20:56"
+    "article_num": 79,
+    "last_updated_time": "2026-01-02 09:49:18"
   },
   "article_data": [
     {
@@ -639,15 +639,6 @@
     },
     {
       "floor": 71,
-      "title": "使用宝塔面板 部署Cloudreve V4",
-      "created": "2025-11-02",
-      "updated": "2025-11-02",
-      "link": "https://blog.yeqing.net/bt-cloudreve-v4/",
-      "author": "夜轻Blog",
-      "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
-    },
-    {
-      "floor": 72,
       "title": "从Moments迁移到Ech0",
       "created": "2025-11-02",
       "updated": "2025-11-04",
@@ -656,7 +647,7 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "floor": 73,
+      "floor": 72,
       "title": "一站式操作系统 ISO 下载平台",
       "created": "2025-10-27",
       "updated": "2026-01-01",
@@ -665,7 +656,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 74,
+      "floor": 73,
       "title": "MinIO 社区版 Web 管理界面被删事件全解析",
       "created": "2025-10-21",
       "updated": "2026-01-01",
@@ -674,7 +665,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 75,
+      "floor": 74,
       "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
       "created": "2025-10-15",
       "updated": "2026-01-01",
@@ -683,7 +674,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 76,
+      "floor": 75,
       "title": "再见，普莫雍措",
       "created": "2025-10-09",
       "updated": "2025-11-10",
@@ -692,7 +683,7 @@
       "avatar": "https://www.hudi.space/img/avator.jpg"
     },
     {
-      "floor": 77,
+      "floor": 76,
       "title": "Focalboard 开源项目管理的有力工具",
       "created": "2025-10-09",
       "updated": "2026-01-01",
@@ -701,7 +692,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 78,
+      "floor": 77,
       "title": "谈谈不受欢迎的博客技术特征",
       "created": "2025-10-07",
       "updated": "2025-12-24",
@@ -710,7 +701,7 @@
       "avatar": "https://www.zhilu.site/api/avatar.png"
     },
     {
-      "floor": 79,
+      "floor": 78,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
       "updated": "2026-01-01",
@@ -719,7 +710,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 80,
+      "floor": 79,
       "title": "组件样式示例",
       "created": "2024-09-21",
       "updated": "2025-12-28",
