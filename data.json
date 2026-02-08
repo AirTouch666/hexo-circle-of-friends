@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 19,
-    "error_num": 3,
-    "article_num": 69,
-    "last_updated_time": "2026-02-09 02:39:18"
+    "active_num": 18,
+    "error_num": 4,
+    "article_num": 70,
+    "last_updated_time": "2026-02-09 05:28:39"
   },
   "article_data": [
     {
@@ -371,7 +371,7 @@
       "floor": 41,
       "title": "部署LabelStudio在线标注系统",
       "created": "2025-12-16",
-      "updated": "2025-12-16",
+      "updated": "2025-12-19",
       "link": "https://blog.hzchu.top/2025/%E9%83%A8%E7%BD%B2Labelstudio/",
       "author": "Thun888",
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
@@ -612,6 +612,15 @@
     },
     {
       "floor": 68,
+      "title": "生成式AI正在生成",
+      "created": "2025-06-10",
+      "updated": "2026-02-08",
+      "link": "https://blog.zhilu.site/2025/ai-abuse",
+      "author": "纸鹿摸鱼处",
+      "avatar": "https://www.zhilu.site/api/avatar.png"
+    },
+    {
+      "floor": 69,
       "title": "无锡是2025春晚分会场之一",
       "created": "2024-12-09",
       "updated": "2026-01-02",
@@ -620,7 +629,7 @@
       "avatar": "https://qxzhan.cn/favicon.png"
     },
     {
-      "floor": 69,
+      "floor": 70,
       "title": "组件样式示例",
       "created": "2024-09-21",
       "updated": "2025-12-28",
