@@ -4,7 +4,7 @@
     "active_num": 19,
     "error_num": 3,
     "article_num": 72,
-    "last_updated_time": "2026-02-13 05:35:59"
+    "last_updated_time": "2026-02-13 10:26:06"
   },
   "article_data": [
     {
@@ -443,7 +443,7 @@
       "floor": 49,
       "title": "部署LabelStudio在线标注系统",
       "created": "2025-12-16",
-      "updated": "2025-12-16",
+      "updated": "2026-02-12",
       "link": "https://blog.hzchu.top/2025/%E9%83%A8%E7%BD%B2Labelstudio/",
       "author": "Thun888",
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
