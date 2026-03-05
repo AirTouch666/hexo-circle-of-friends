@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 17,
     "error_num": 5,
-    "article_num": 76,
-    "last_updated_time": "2026-03-05 14:55:00"
+    "article_num": 77,
+    "last_updated_time": "2026-03-05 21:03:32"
   },
   "article_data": [
     {
@@ -272,7 +272,7 @@
       "floor": 30,
       "title": "2025年度总结",
       "created": "2026-02-13",
-      "updated": "2026-02-15",
+      "updated": "2026-02-13",
       "link": "https://blog.hzchu.top/2026/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/",
       "author": "Thun888",
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
@@ -542,13 +542,22 @@
       "floor": 60,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
-      "updated": "2026-03-04",
+      "updated": "2026-03-05",
       "link": "https://dusays.com/archives/845/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
       "floor": 61,
+      "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
+      "created": "2025-12-08",
+      "updated": "2026-03-05",
+      "link": "https://dusays.com/archives/841/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/favicon.ico"
+    },
+    {
+      "floor": 62,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
       "updated": "2026-01-27",
@@ -557,16 +566,16 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 62,
+      "floor": 63,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
-      "updated": "2026-03-04",
+      "updated": "2026-03-05",
       "link": "https://dusays.com/archives/840/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 63,
+      "floor": 64,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
       "updated": "2026-01-27",
@@ -575,16 +584,16 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 64,
+      "floor": 65,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
-      "updated": "2026-03-04",
+      "updated": "2026-03-05",
       "link": "https://dusays.com/archives/839/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 65,
+      "floor": 66,
       "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
       "created": "2025-11-20",
       "updated": "2026-01-27",
@@ -593,16 +602,16 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 66,
+      "floor": 67,
       "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
       "created": "2025-11-20",
-      "updated": "2026-03-04",
+      "updated": "2026-03-05",
       "link": "https://dusays.com/archives/838/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 67,
+      "floor": 68,
       "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
       "created": "2025-11-14",
       "updated": "2026-01-27",
@@ -611,7 +620,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 68,
+      "floor": 69,
       "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
       "created": "2025-11-14",
       "updated": "2026-03-04",
@@ -620,7 +629,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 69,
+      "floor": 70,
       "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
       "created": "2025-11-08",
       "updated": "2026-01-20",
@@ -629,7 +638,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 70,
+      "floor": 71,
       "title": "最近总觉得脑子不够用？杜老师的脑力不足自救实录",
       "created": "2025-11-02",
       "updated": "2026-01-20",
@@ -638,7 +647,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 71,
+      "floor": 72,
       "title": "一站式操作系统 ISO 下载平台",
       "created": "2025-10-27",
       "updated": "2026-01-19",
@@ -647,7 +656,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 72,
+      "floor": 73,
       "title": "MinIO 社区版 Web 管理界面被删事件全解析",
       "created": "2025-10-21",
       "updated": "2026-01-19",
@@ -656,7 +665,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 73,
+      "floor": 74,
       "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
       "created": "2025-10-15",
       "updated": "2026-01-18",
@@ -665,7 +674,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 74,
+      "floor": 75,
       "title": "Focalboard 开源项目管理的有力工具",
       "created": "2025-10-09",
       "updated": "2026-01-18",
@@ -674,7 +683,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 75,
+      "floor": 76,
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-03",
       "updated": "2026-01-12",
@@ -683,7 +692,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 76,
+      "floor": 77,
       "title": "生成式AI正在生成",
       "created": "2025-06-10",
       "updated": "2026-02-08",
