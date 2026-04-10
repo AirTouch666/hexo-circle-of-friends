@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 16,
     "error_num": 6,
-    "article_num": 75,
-    "last_updated_time": "2026-04-10 05:46:38"
+    "article_num": 73,
+    "last_updated_time": "2026-04-10 10:39:24"
   },
   "article_data": [
     {
@@ -524,7 +524,7 @@
       "floor": 58,
       "title": "2025年度总结",
       "created": "2026-02-13",
-      "updated": "2026-02-13",
+      "updated": "2026-02-15",
       "link": "https://blog.hzchu.top/2026/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/",
       "author": "Thun888",
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
@@ -612,15 +612,6 @@
     },
     {
       "floor": 68,
-      "title": "博客三周年：缝缝补补的过去",
-      "created": "2026-02-08",
-      "updated": "2026-02-08",
-      "link": "https://www.ooowl.net/posts/3rd-celebrate/",
-      "author": "Frederick's Blog",
-      "avatar": "https://blog.ohdragonboi.cn/_astro/favicon.kz6zgvIB_Z1snDk4.webp"
-    },
-    {
-      "floor": 69,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
       "updated": "2026-04-09",
@@ -629,7 +620,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 70,
+      "floor": 69,
       "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
       "created": "2025-12-08",
       "updated": "2026-04-09",
@@ -638,7 +629,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 71,
+      "floor": 70,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
       "updated": "2026-04-09",
@@ -647,7 +638,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 72,
+      "floor": 71,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
       "updated": "2026-04-09",
@@ -656,7 +647,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 73,
+      "floor": 72,
       "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
       "created": "2025-11-20",
       "updated": "2026-04-03",
@@ -665,22 +656,13 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 74,
+      "floor": 73,
       "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
       "created": "2025-11-14",
       "updated": "2026-03-04",
       "link": "https://dusays.com/archives/837/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/favicon.ico"
-    },
-    {
-      "floor": 75,
-      "title": "生成式AI正在生成",
-      "created": "2025-06-10",
-      "updated": "2026-02-08",
-      "link": "https://blog.zhilu.site/2025/ai-abuse",
-      "author": "纸鹿摸鱼处",
-      "avatar": "https://www.zhilu.site/api/avatar.png"
     }
   ]
 }
