@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 16,
     "error_num": 6,
-    "article_num": 73,
-    "last_updated_time": "2026-04-11 05:39:25"
+    "article_num": 72,
+    "last_updated_time": "2026-04-11 10:24:52"
   },
   "article_data": [
     {
@@ -603,15 +603,6 @@
     },
     {
       "floor": 67,
-      "title": "OpenClaw + 1Panel 快速部署-搭建你的专属 AI 助理",
-      "created": "2026-02-09",
-      "updated": "2026-02-09",
-      "link": "https://blog.6uu.us/archives/openclaw-1panel-kuai-su-bu-shu-da-jian-ni-de-zhuan-shu-ai-zhu-li",
-      "author": "bbb-lsy07",
-      "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
-      "floor": 68,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
       "updated": "2026-04-10",
@@ -620,7 +611,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 69,
+      "floor": 68,
       "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
       "created": "2025-12-08",
       "updated": "2026-04-10",
@@ -629,7 +620,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 70,
+      "floor": 69,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
       "updated": "2026-04-10",
@@ -638,7 +629,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 71,
+      "floor": 70,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
       "updated": "2026-04-10",
@@ -647,7 +638,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 72,
+      "floor": 71,
       "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
       "created": "2025-11-20",
       "updated": "2026-04-03",
@@ -656,7 +647,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 73,
+      "floor": 72,
       "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
       "created": "2025-11-14",
       "updated": "2026-03-04",
